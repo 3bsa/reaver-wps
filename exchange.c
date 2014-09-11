@@ -132,6 +132,11 @@ enum wps_result do_wps_exchange()
                                 break;
 			case M7:
 				cprintf(VERBOSE, "[+] Received M7 message\n");
+				if(!m6_sent)
+				{
+					tx_type = SEND_WSC_NACK;
+					terminated = 1;
+				}
 				/* Fall through */
 			case DONE:
 				if(get_key_status() == KEY2_WIP) 
