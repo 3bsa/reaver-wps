@@ -1,4 +1,10 @@
-reaver-wps
+Reaver-wps
 ==========
 
-my fork of Reaver (the Wireless Protected Setup pentesting tool)
+My fork of Reaver (the Wireless Protected Setup pentesting tool)
+
+Patches
+-------
+
+- https://code.google.com/p/reaver-wps/issues/detail?id=470
+
