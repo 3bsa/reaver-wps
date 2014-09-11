@@ -235,7 +235,7 @@ enum wps_result do_wps_exchange()
 		 * Only treat the timeout as a NACK if this feature is enabled.
 		 */
 		if(get_timeout_is_nack() &&
-		  (last_msg == M3 || last_msg == M5))
+		  ((last_msg == M3 && (get_key_status() == KEY1_WIP)) || last_msg == M5)))
 		{
 			ret_val = KEY_REJECTED;
 		}
