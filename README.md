@@ -7,4 +7,4 @@ Patches applied
 ---------------
 
 - https://code.google.com/p/reaver-wps/issues/detail?id=470
-
+- https://code.google.com/p/reaver-wps/issues/detail?id=426
