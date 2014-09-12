@@ -8,7 +8,7 @@ Community-supported fork (supposedly 1.5): https://code.google.com/p/reaver-wps-
 
 I picked up the latter to continue fixing and improving the tool.
 
-The patches I found online will be stored in `./patches/`.
+The patches I found online will be stored in `./patches/`
 
-The ones I do not apply will be stored in `./patches_misc/`.
+The ones I do not apply will be stored in `./patches_misc/`
 
