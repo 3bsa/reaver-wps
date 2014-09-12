@@ -1,10 +1,14 @@
-Reaver-wps
+Reaver WPS
 ==========
+My fork of Reaver (the Wireless Protected Setup bruteforcing tool).
 
-My fork of Reaver (the Wireless Protected Setup pentesting tool).
+Original code tree (1.4, now abandoned): https://code.google.com/p/reaver-wps/
 
-Patches applied
----------------
+Community-supported fork (supposedly 1.5): https://code.google.com/p/reaver-wps-fork/
 
-- https://code.google.com/p/reaver-wps/issues/detail?id=470
-- https://code.google.com/p/reaver-wps/issues/detail?id=426
+I picked up the latter to continue fixing and improving the tool.
+
+The patches I found online will be stored in `./patches/`.
+
+The ones I do not apply will be stored in `./patches_misc/`.
+
