@@ -1,6 +1,12 @@
 *~
 *.[aod]
 *.so
+
 Makefile
 reaver
 wash 
+
+src/config.h
+src/config.log
+src/config.status
+
