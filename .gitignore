@@ -1,5 +1,6 @@
 *~
 *.[aod]
 *.so
+Makefile
 reaver
 wash 
