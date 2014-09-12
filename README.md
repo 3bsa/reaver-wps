@@ -1,6 +1,6 @@
 Reaver WPS
 ==========
-My fork of Reaver (the Wireless Protected Setup bruteforcing tool).
+My fork of Reaver (the Wireless Protected Setup bruteforce tool).
 
 Original code tree (1.4, now abandoned): https://code.google.com/p/reaver-wps/
 
