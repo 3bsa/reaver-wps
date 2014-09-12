@@ -12,3 +12,12 @@ The patches I applied will be stored in `./patches/`
 
 The ones I do not apply will be stored in `./patches_misc/`
 
+Install
+-------
+
+> sudo apt-get install libpcap-dev libsqlite3-dev
+> cd src
+> ./configure
+> make
+> sudo make install
+
