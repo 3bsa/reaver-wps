@@ -15,9 +15,10 @@ The ones I do not apply will be stored in `./patches_misc/`
 Install
 -------
 
-> sudo apt-get install libpcap-dev libsqlite3-dev
-> cd src
-> ./configure
-> make
-> sudo make install
-
+```
+sudo apt-get install libpcap-dev libsqlite3-dev
+cd src
+./configure
+make -j 3
+sudo make install
+```
